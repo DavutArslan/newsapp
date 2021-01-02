@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "389352023388",
+    "project_id": "haberapp-24469",
+    "storage_bucket": "haberapp-24469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389352023388:android:2a0276d04fe9accbed0d99",
+        "android_client_info": {
+          "package_name": "com.example.haberApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389352023388-j7ganrqddue6hi0i24qb1kgr28vmvl2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haberApp",
+            "certificate_hash": "01b6629a568d56cac11368130730558fa50a52b5"
+          }
+        },
+        {
+          "client_id": "389352023388-h0si7jqlj5vean79oqa207mkivgks0a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvI6mCRNH8E284qO9V-JUMNFOgNvBHNPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389352023388-h0si7jqlj5vean79oqa207mkivgks0a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
